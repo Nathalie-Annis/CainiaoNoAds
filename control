@@ -1,0 +1,5 @@
+Package: com.nathalie.cainiaonoads
+Name: CainiaoNoAds
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Remove cainiao advertisements
